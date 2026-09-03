@@ -1,0 +1,15 @@
+C:\Users\bdalr\الرواد\Task_Hapit.Domain\obj\Debug\net8.0\JopBoard.Domain.csproj.AssemblyReference.cache
+C:\Users\bdalr\الرواد\Task_Hapit.Domain\obj\Debug\net8.0\JopBoard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bdalr\الرواد\Task_Hapit.Domain\obj\Debug\net8.0\JopBoard.Domain.AssemblyInfoInputs.cache
+C:\Users\bdalr\الرواد\Task_Hapit.Domain\obj\Debug\net8.0\JopBoard.Domain.AssemblyInfo.cs
+C:\Users\bdalr\الرواد\Task_Hapit.Domain\obj\Debug\net8.0\JopBoard.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bdalr\الرواد\Task_Hapit.Domain\obj\Debug\net8.0\JopBoard.Domain.sourcelink.json
+C:\Users\bdalr\الرواد\Task_Hapit.Domain\bin\Debug\net8.0\JopBoard.Domain.deps.json
+C:\Users\bdalr\الرواد\Task_Hapit.Domain\bin\Debug\net8.0\JopBoard.Domain.runtimeconfig.json
+C:\Users\bdalr\الرواد\Task_Hapit.Domain\bin\Debug\net8.0\JopBoard.Domain.dll
+C:\Users\bdalr\الرواد\Task_Hapit.Domain\bin\Debug\net8.0\JopBoard.Domain.pdb
+C:\Users\bdalr\الرواد\Task_Hapit.Domain\obj\Debug\net8.0\JopBoard.Domain.dll
+C:\Users\bdalr\الرواد\Task_Hapit.Domain\obj\Debug\net8.0\refint\JopBoard.Domain.dll
+C:\Users\bdalr\الرواد\Task_Hapit.Domain\obj\Debug\net8.0\JopBoard.Domain.pdb
+C:\Users\bdalr\الرواد\Task_Hapit.Domain\obj\Debug\net8.0\JopBoard.Domain.genruntimeconfig.cache
+C:\Users\bdalr\الرواد\Task_Hapit.Domain\obj\Debug\net8.0\ref\JopBoard.Domain.dll
